@@ -1,0 +1,26 @@
+{
+  "name": "farmacia-online",
+  "version": "1.0.0",
+  "description": "Farmacia online ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verronebruna/farmacia-online.git"
+  },
+  "author": "Bruna Verrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verronebruna/farmacia-online/issues"
+  },
+  "homepage": "https://github.com/verronebruna/farmacia-online#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.33.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.1"
+  }
+}
